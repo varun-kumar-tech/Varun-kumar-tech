@@ -37,6 +37,6 @@
 ## 🌍 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/varun-kumar-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [Email](mailto:varun280215@gmail.com)  
-- [LeetCode](https://leetcode.com/u/varun2460/)
+- [LeetCode](https://leetcode.com/u/varun-kumar-dev/)
 
 ✨ *Always learning, always building.*  
